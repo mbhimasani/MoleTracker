@@ -1,1 +1,0 @@
-This directory holds files related to Andriod/iOS app development with React Native
