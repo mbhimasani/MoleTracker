@@ -1,1 +1,1 @@
-Empty
+This directory holds files related to development of edge detection and size/measurement detection algorithms

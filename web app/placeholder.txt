@@ -1,1 +1,1 @@
-Empty
+This directory holds files related to server development and databases
